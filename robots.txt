@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://smgucluplastik.github.io/sitemap.txt
-
-Sitemap: https://smgucluplastik.github.io/sitemap.xml
-
